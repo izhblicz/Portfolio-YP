@@ -1,4 +1,5 @@
 # Анализ убытков приложения ProcrastinatePRO+
+[Проект](https://github.com/izhblicz/Portfolio-YP/blob/main/Анализ%20убытков%20приложения%20ProcrastinatePRO%2B/application_losses.ipynb)
 # Описание
 Проведен анализ данных от ProcrastinatePRO+. Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д. Использованы уже написанные ранее функции расчёта метрик. Сделаны правильные выводы по полученным данным.
 # Задачи
