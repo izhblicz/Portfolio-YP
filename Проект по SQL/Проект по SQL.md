@@ -1,5 +1,5 @@
 # Проект по SQL
-[Проект]()
+[Проект](https://github.com/izhblicz/Portfolio-YP/blob/main/Проект%20по%20SQL/sql_final.ipynb)
 # Описание
 Был проведён анализ сервиса  для чтения книг по подписке при помощи SQL и Python.
 
